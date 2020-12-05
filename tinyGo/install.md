@@ -24,4 +24,4 @@ tinygo version 0.16.0 darwin/amd64 (using go version go1.14 and LLVM version 10.
 ```
 这就是安装成功了. 
 我看了一下用 stm32的单片机, 还需要装一个 openocd, 但是, openocd 的网站上并没有说支持 stlink...这倒不是问题.
-好的开始是成功的一半。ß
+好的开始是成功的一半。
